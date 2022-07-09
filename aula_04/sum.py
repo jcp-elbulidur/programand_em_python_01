@@ -72,9 +72,10 @@ def injetar_lista(lista, conteudo):
 
 
 # FUNCAO PARA MOSTRAR A HORA AGORA => DATATIME <=
-from datetime import datetime
+from datetime import _time, datetime
 
 print(datetime.now())
+
 #RETORNA A HORA
 
 # FUNCAO QUE IMPRIME A PRIMEIRA LETRA DO NOME, PEGAR UM NOME COMO TEXTO

@@ -1,0 +1,2 @@
+nome; idade; peso; altura; 
+outro; outro; outro; outro; 
